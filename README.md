@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Open Soucres.
 - 📫 How to reach me
 - insta:- @s_umant01
-- 😄 Pronouns: 👩‍💻 Full Stack Developer | Passionate about open-source contributions | He | Let's build something amazing!
+- 😄 Pronouns: 👩‍💻 Full Stack Developer | Passionate about open-source contributions | He/Him | Let's build something amazing!
 
 - ⚡ Fun fact: Not Yet...just Started Learning.
 
