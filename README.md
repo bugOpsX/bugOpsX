@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Open Soucres.
 - 📫 How to reach me
 - Insta:- @s_umant01
-- Linkedin- www.linkedin.com/in/sumant-kumar-909b0631a
+- Linkedin- https://www.linkedin.com/in/sumant01/
 - 😄 Pronouns: 👩‍💻 Full Stack Developer | Passionate about open-source contributions | He/Him | Let's build something amazing!
 
 - ⚡ Fun fact: Not Yet...just Started Learning.
