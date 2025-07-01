@@ -22,6 +22,3 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-![Trophy](https://github-profile-trophy.vercel.app/?username=bugOpsX&theme=onedark&row=1&margin-w=10&no-frame=true)
-
