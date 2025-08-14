@@ -5,13 +5,13 @@
 
 ---
 
-### 🌱 About Me
+### About Me
 
-- 🏫 2nd Year CSE (AI-ML) student at Marwadi University  
-- 🔧 I’m currently learning **Web Development**, **DS**, and **Python Automation**
-- 🧠 I’m exploring **AI/ML**, real-world automation, and agentic AI tools
-- 🎯 Focused on building **clean**, **impactful**, and **interactive** projects
-- ✨ Currently working on: **Mini projects + Learning-based repo series**
+- 2nd Year CSE (AI-ML) student at Marwadi University  
+- I’m currently learning **Web Development**, **DS**, and **Python Automation**
+- I’m exploring **AI/ML**, real-world automation, and agentic AI tools
+- Focused on building **clean**, **impactful**, and **interactive** projects
+- Currently working on: **Mini projects + Learning-based repo series**
 ---
 
 ### 🧰 Tech Stack I'm Playing With
